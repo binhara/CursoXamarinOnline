@@ -1,3 +1,7 @@
 ola mundo git
 
+<<<<<<< HEAD
 teste renato
+=======
+alteracao 
+>>>>>>> c18ea786d38a438705cad5075b06c4d1d7aad81d

@@ -23,7 +23,7 @@ Global
 		{BBC37B00-E84C-4F77-82BB-3D34A7843FDC}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = HelloWorld\HelloWorld.csproj
+		StartupItem = Intent1\Intent1.csproj
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -18,21 +18,47 @@ namespace Intent1
 		{
 			base.OnCreate (bundle);
 
-			// Set our view from the "main" layout resource
-			SetContentView (Resource.Layout.Main);
+
+			var layout = new LinearLayout(this);
+			layout.Orientation = Orientation.Vertical;
+
+
+
+
+
+
+			var aButtonLigar = new Button(this);
+			aButtonLigar.Text = "Ligar para OnlineSites";
+
+			var aButtonNovaTela = new Button (this);
+
+			aButtonNovaTela.Text = "Abrir outra Atividade";
 
 			// Get our button from the layout resource,
 			// and attach an event to it
-			Button button = FindViewById<Button> (Resource.Id.myButton);
-			
-			button.Click += delegate {
 
-				var activity = new Intent(this,typeof(Activity2));
-				activity.PutExtra("dado1","Ola intent 2");
+			aButtonLigar.Click += delegate {
+				var act = new Activity2();
 
-				StartActivity(activity);
-				
+
 			};
+
+			aButtonLigar.Click += delegate {
+
+//				var activity = new Intent(this,typeof(Activity2));
+//				activity.PutExtra("dado1","Ola intent 2");
+////				StartActivity(activity);
+
+				var uri = Android.Net.Uri.Parse("tel:03732215817");
+				var intent = new Intent(Intent.ActionView,uri);
+				StartActivity(intent);
+
+			};
+
+			layout.AddView(aButtonLigar);
+
+			// Set our view from the "main" layout resource
+			SetContentView (layout);
 		}
 	}
 }

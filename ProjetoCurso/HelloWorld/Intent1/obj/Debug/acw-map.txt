@@ -1,0 +1,2 @@
+Intent1.MainActivity;intent1.MainActivity
+Intent1.Activity2;intent1.Activity2

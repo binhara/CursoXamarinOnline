@@ -9,6 +9,7 @@ using Android.OS;
 
 namespace Intent1
 {
+	[Activity (Label = "Intent2")]
 	public class Activity2 : Activity
 	{
 		protected override void OnCreate (Bundle bundle)

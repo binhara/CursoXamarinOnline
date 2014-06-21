@@ -16,7 +16,16 @@ namespace Intent1
 		{
 			base.OnCreate (bundle);
 
+			var layout = new LinearLayout(this);
+			layout.Orientation = Orientation.Vertical;
 
+			var aLabel = new TextView (this);
+			aLabel.Text = Intent.GetStringExtra ("dado1");
+
+
+			layout.AddView (aLabel);
+
+			SetContentView (layout);
 		}
 	}
 

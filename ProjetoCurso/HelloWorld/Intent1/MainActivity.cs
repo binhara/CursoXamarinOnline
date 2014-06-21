@@ -12,7 +12,6 @@ namespace Intent1
 	[Activity (Label = "Intent1", MainLauncher = true)]
 	public class MainActivity : Activity
 	{
-		int count = 1;
 
 		protected override void OnCreate (Bundle bundle)
 		{
@@ -37,25 +36,22 @@ namespace Intent1
 			// Get our button from the layout resource,
 			// and attach an event to it
 
-			aButtonLigar.Click += delegate {
-				var act = new Activity2();
-
-
+			aButtonNovaTela.Click += delegate {
+				var act = new Intent(this,typeof(Activity2));
+				act.PutExtra("dado1","Olá intent 2");
+				StartActivity(act);
 			};
 
 			aButtonLigar.Click += delegate {
-
-//				var activity = new Intent(this,typeof(Activity2));
-//				activity.PutExtra("dado1","Ola intent 2");
-////				StartActivity(activity);
-
 				var uri = Android.Net.Uri.Parse("tel:03732215817");
 				var intent = new Intent(Intent.ActionView,uri);
 				StartActivity(intent);
 
 			};
 
+			layout.AddView (aButtonNovaTela);
 			layout.AddView(aButtonLigar);
+
 
 			// Set our view from the "main" layout resource
 			SetContentView (layout);

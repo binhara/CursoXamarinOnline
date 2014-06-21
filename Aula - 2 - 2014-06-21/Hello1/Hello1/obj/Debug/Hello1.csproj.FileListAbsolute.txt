@@ -1,0 +1,13 @@
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\bin\Debug\Hello1.dll
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\bin\Debug\Hello1.pdb
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\bin\Debug\Hello1.dll.mdb
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\bin\Debug\Hello1.Hello1.apk
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\bin\Debug\Hello1.Hello1-Signed.apk
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\obj\Debug\Hello1.dll
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\obj\Debug\Hello1.pdb
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\obj\Debug\android\bin\Hello1.Hello1.apk
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\obj\Debug\res\layout\main.xml
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\obj\Debug\res\values\strings.xml
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\obj\Debug\res\drawable\icon.png
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\obj\Debug\R.cs.flag
+C:\Users\Erivelton\Desktop\CursoXamarinAndroid_projetosAula\Aula - 2 - 2014-06-21\Hello1\Hello1\obj\Debug\uploadflags.txt

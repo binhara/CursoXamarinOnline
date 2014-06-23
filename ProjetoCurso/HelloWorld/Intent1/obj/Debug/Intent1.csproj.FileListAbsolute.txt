@@ -1,13 +1,13 @@
 C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\bin\Debug\Intent1.dll
 C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\bin\Debug\Intent1.pdb
 C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\bin\Debug\Intent1.dll.mdb
-C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\bin\Debug\Intent1.Intent1.apk
-C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\bin\Debug\Intent1.Intent1-Signed.apk
 C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\obj\Debug\Intent1.dll
 C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\obj\Debug\Intent1.pdb
-C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\obj\Debug\android\bin\Intent1.Intent1.apk
 C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\obj\Debug\res\layout\main.xml
 C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\obj\Debug\res\values\strings.xml
 C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\obj\Debug\res\drawable\icon.png
 C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\obj\Debug\R.cs.flag
 C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\obj\Debug\uploadflags.txt
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\bin\Debug\HelloWorld.Intent1.apk
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\bin\Debug\HelloWorld.Intent1-Signed.apk
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Intent1\obj\Debug\android\bin\HelloWorld.Intent1.apk

@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package intent1.intent1;
+package helloworld.intent1;
 
 public final class R {
     public static final class attr {

@@ -1,0 +1,13 @@
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.dll
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.dll.mdb
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.Calculadora.apk
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.Calculadora-Signed.apk
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.dll
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\obj\Debug\android\bin\Calculadora.Calculadora.apk
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\obj\Debug\res\layout\main.xml
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\obj\Debug\res\values\strings.xml
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\obj\Debug\res\drawable\icon.png
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\obj\Debug\R.cs.flag
+C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\obj\Debug\uploadflags.txt

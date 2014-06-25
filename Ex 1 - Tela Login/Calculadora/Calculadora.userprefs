@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculadora\MainActivity.cs">
+    <Files>
+      <File FileName="Calculadora\MainActivity.cs" Line="96" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\android\Curso Xamarin - Android\Segunda Aula\Ex 2 - Calculadora\Calculadora\Calculadora\MainActivity.cs" line="123" column="4" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Calculadora MonoForAntroid.PreferredDevice="Nexus 5" AndroidDeviceId-Debug="192.168.56.101:5555" />
+</Properties>

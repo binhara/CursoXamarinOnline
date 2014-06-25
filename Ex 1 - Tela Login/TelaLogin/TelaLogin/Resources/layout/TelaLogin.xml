@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrllvwNo1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#FFFFFF">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="#FFFFFF">
+        <TextView
+            android:id="@+layLogin/txvModulo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="16sp"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp" />
+        <RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#FFFFFF">
+            <EditText
+                android:id="@+layLogin2/txecd_usu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:ems="10"
+                android:text="teste"
+                android:hint="Login"
+                android:inputType="textEmailAddress"
+                android:background="#ffd1d1d1"
+                android:textColor="@android:color/black">
+                <requestFocus />
+            </EditText>
+            <EditText
+                android:id="@+layLogin2/txede_senha"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+layLogin2/txecd_usu"
+                android:layout_below="@+layLogin2/txecd_usu"
+                android:layout_marginTop="33dp"
+                android:ems="10"
+                android:text="teste"
+                android:hint="Senha"
+                android:inputType="textPassword"
+                android:background="#ffd1d1d1"
+                android:textColor="@android:color/black" />
+        </RelativeLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#FFFFFF">
+            <Space
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:id="@+id/space1" />
+        </LinearLayout>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="#000000"
+            android:gravity="center"
+            android:layout_marginTop="50dp">
+        <!--                android:layout_height="fill_parent"-->
+            <Button
+                style="@style/Tema.Botoes"
+                android:id="@+layLogin2/btnEntrar"
+                android:layout_width="110dp"
+                android:onClick="Entrar"
+                android:text="Entrar" />
+        <!--                android:layout_height="fill_parent"-->
+            <Button
+                style="@style/Tema.Botoes"
+                android:id="@+layLogin2/btnCancelar"
+                android:layout_width="110dp"
+                android:onClick="Cancelar"
+                android:text="Cancelar"
+                android:layout_marginLeft="50dp" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

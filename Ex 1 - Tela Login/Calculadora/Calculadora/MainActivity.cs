@@ -13,9 +13,9 @@ namespace Calculadora
 	[Activity (Label = "Calculadora", MainLauncher = true)]
 	public class MainActivity : Activity
 	{
-		int Nro1 = 0;
-		int Nro2 = 0;
-		int Calculo = 0;
+		double Nro1 = 0;
+		double Nro2 = 0;
+		double Calculo = 0;
 		string Sinal = "";
 		//private TextView Resultado;
 
@@ -75,31 +75,31 @@ namespace Calculadora
 			btnlimpa.Click += delegate {
 				resultado.Text = string.Format (""); };
 			btnInverte.Click += delegate {
-				resultado.Text = string.Format (Convert.ToString (Convert.ToInt32 (resultado.Text) * -1)); };
+				resultado.Text = string.Format (Convert.ToString (Convert.ToDouble(resultado.Text) * -1)); };
 			btnSoma.Click += delegate {
 				Sinal = "+";
-				Nro1 = Convert.ToInt32 (resultado.Text);
+				Nro1 = Convert.ToDouble(resultado.Text);
 				resultado.Text = string.Format (""); 
 			};
 			btnDiminui.Click += delegate {
 				Sinal = "-";
-				Nro1 = Convert.ToInt32 (resultado.Text);
+				Nro1 = Convert.ToDouble(resultado.Text);
 				resultado.Text = string.Format (""); 
 			};
 			btnMultiplica.Click += delegate {
 				Sinal = "*";
-				Nro1 = Convert.ToInt32 (resultado.Text);
+				Nro1 = Convert.ToDouble(resultado.Text);
 				resultado.Text = string.Format (""); 
 			};
 			btnDivide.Click += delegate {
 				Sinal = "/";
-				Nro1 = Convert.ToInt32 (resultado.Text);
+				Nro1 = Convert.ToDouble(resultado.Text);
 				resultado.Text = string.Format (""); 
 			};
 
 
 			btnIgual.Click += delegate {
-				Nro2 = Convert.ToInt32 (resultado.Text);
+				Nro2 = Convert.ToDouble(resultado.Text);
 				switch (Sinal)
 					{
 					case "+":

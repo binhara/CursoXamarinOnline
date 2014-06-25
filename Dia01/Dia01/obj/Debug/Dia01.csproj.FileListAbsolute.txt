@@ -1,0 +1,16 @@
+D:\Visual Studio 2013\Android\Dia01\Dia01\bin\Debug\Dia01.dll
+D:\Visual Studio 2013\Android\Dia01\Dia01\bin\Debug\Dia01.pdb
+D:\Visual Studio 2013\Android\Dia01\Dia01\bin\Debug\Dia01.dll.mdb
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\Dia01.dll
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\Dia01.pdb
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\res\layout\calculadora.xml
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\res\layout\main.xml
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\res\values\strings.xml
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\res\drawable\icon.png
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\res\drawable\calculator.png
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\R.cs.flag
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\uploadflags.txt
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\Dia01.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\Android\Dia01\Dia01\bin\Debug\br.com.vitoravale.Dia01.apk
+D:\Visual Studio 2013\Android\Dia01\Dia01\bin\Debug\br.com.vitoravale.Dia01-Signed.apk
+D:\Visual Studio 2013\Android\Dia01\Dia01\obj\Debug\android\bin\br.com.vitoravale.Dia01.apk

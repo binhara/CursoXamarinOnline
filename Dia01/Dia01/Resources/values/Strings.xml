@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="ApplicationName">App Dia 01</string>
+  <string name="loginNome">Digite seu nome</string>
+  <string name="loginSenha">Digite sua senha (123)</string>
+  <string name="loginBotao">Entrar</string>
+  <string name="loginTexto">Preencha os campos abaixo para acessar sua calculadora.</string>
+  <string name="LoginSenhaEsperada">123</string>
+  <string name="LoginErroTitulo">Campo Requerido</string>
+  <string name="LoginInformeNome">O nome deve ser informado.</string>
+  <string name="LoginInformeSenha">A senha deve ser informada.</string>
+  <string name="LoginSenhaInvalida">Senha incorreta!</string>
+  <string name="LoginSenhaInvalidaTitulo">Autenticação</string>
+  <string name="LoginSenhaCorreta">Bem vindo {0}</string>
+  <string name="LoginSenhaCorretaBotao">Prosseguir</string>
+
+  <string name="button1">1</string>
+  <string name="button2">2</string>
+  <string name="button3">3</string>
+  <string name="button4">4</string>
+  <string name="button5">5</string>
+  <string name="button6">6</string>
+  <string name="button7">7</string>
+  <string name="button8">8</string>
+  <string name="button9">9</string>
+  <string name="button0">0</string>
+
+  <string name="buttonIgualdade">=</string>
+  <string name="buttonDividir">/</string>
+  <string name="buttonLimpar">C</string>
+  <string name="buttonPonto">.</string>
+  <string name="buttonMultiplicar">*</string>  
+  <string name="buttonSubtrair">-</string>
+  <string name="buttonSoma">+</string>
+</resources>

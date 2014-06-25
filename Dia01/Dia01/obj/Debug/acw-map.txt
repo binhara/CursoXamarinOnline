@@ -1,0 +1,2 @@
+Dia01.CalculadoraActivity;dia01.CalculadoraActivity
+Dia01.MainActivity;dia01.MainActivity

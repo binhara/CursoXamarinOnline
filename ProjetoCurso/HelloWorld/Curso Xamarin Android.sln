@@ -5,27 +5,35 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intent1", "Intent1\Intent1.csproj", "{6A609535-7A28-43E6-8B69-EC2221D540A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginCalculadora", "LoginCalculadora\LoginCalculadora.csproj", "{B13EEA28-C1F8-4180-8A13-063687D311A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6A609535-7A28-43E6-8B69-EC2221D540A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A609535-7A28-43E6-8B69-EC2221D540A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A609535-7A28-43E6-8B69-EC2221D540A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A609535-7A28-43E6-8B69-EC2221D540A1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BBC37B00-E84C-4F77-82BB-3D34A7843FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BBC37B00-E84C-4F77-82BB-3D34A7843FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBC37B00-E84C-4F77-82BB-3D34A7843FDC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
 		{BBC37B00-E84C-4F77-82BB-3D34A7843FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBC37B00-E84C-4F77-82BB-3D34A7843FDC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BBC37B00-E84C-4F77-82BB-3D34A7843FDC}.Release|Any CPU.Deploy.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Intent1\Intent1.csproj
+		{6A609535-7A28-43E6-8B69-EC2221D540A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A609535-7A28-43E6-8B69-EC2221D540A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A609535-7A28-43E6-8B69-EC2221D540A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A609535-7A28-43E6-8B69-EC2221D540A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13EEA28-C1F8-4180-8A13-063687D311A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13EEA28-C1F8-4180-8A13-063687D311A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13EEA28-C1F8-4180-8A13-063687D311A8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B13EEA28-C1F8-4180-8A13-063687D311A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13EEA28-C1F8-4180-8A13-063687D311A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13EEA28-C1F8-4180-8A13-063687D311A8}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Intent1\Intent1.csproj
 	EndGlobalSection
 EndGlobal

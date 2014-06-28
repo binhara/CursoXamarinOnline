@@ -1,0 +1,13 @@
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\bin\Debug\Aula2806.dll
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\bin\Debug\Aula2806.pdb
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\bin\Debug\Aula2806.dll.mdb
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\bin\Debug\Aula2806.Aula2806.apk
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\bin\Debug\Aula2806.Aula2806-Signed.apk
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\obj\Debug\Aula2806.dll
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\obj\Debug\Aula2806.pdb
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\obj\Debug\android\bin\Aula2806.Aula2806.apk
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\obj\Debug\res\layout\main.xml
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\obj\Debug\res\values\strings.xml
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\obj\Debug\res\drawable\icon.png
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\obj\Debug\R.cs.flag
+C:\Users\guigo_000\Documents\GitHub\CursoXamarinOnline\ProjetoCurso\HelloWorld\Aula2806\obj\Debug\uploadflags.txt

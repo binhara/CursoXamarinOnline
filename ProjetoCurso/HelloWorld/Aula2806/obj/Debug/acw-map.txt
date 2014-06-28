@@ -1,0 +1,2 @@
+Aula2806.MainActivity;aula2806.MainActivity
+Aula2806.SimpleService;aula2806.SimpleService

@@ -1,0 +1,2 @@
+LoginCalculadora.Calculadora;logincalculadora.Calculadora
+LoginCalculadora.MainActivity;logincalculadora.MainActivity

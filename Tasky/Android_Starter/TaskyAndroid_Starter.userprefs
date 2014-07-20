@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.MonoForAndroid_API_10" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="c:\Users\VitorAugusto\Documents\Projects\Tasky\Android_Starter\Tasky.Core\TaskDatabaseADO.cs">
+    <Files>
+      <File FileName="TaskyAndroid\Screens\TaskDetailsScreen.cs" Line="36" Column="71" />
+      <File FileName="c:\Users\VitorAugusto\Documents\Projects\Tasky\Android_Starter\Tasky.Core\TaskDatabaseADO.cs" Line="133" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TaskyAndroid MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
+</Properties>

@@ -1,0 +1,16 @@
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\bin\Debug\Dia02.dll
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\bin\Debug\Dia02.pdb
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\bin\Debug\Dia02.dll.mdb
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\bin\Debug\Dia02.Dia02.apk
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\bin\Debug\Dia02.Dia02-Signed.apk
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\Dia02.dll
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\Dia02.pdb
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\android\bin\Dia02.Dia02.apk
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\res\layout\main.xml
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\res\values\strings.xml
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\res\drawable\icon.png
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\res\layout\formatolistagem.xml
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\res\drawable\monkey.png
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\res\drawable\placeholder.png
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\R.cs.flag
+C:\Users\VitorAugusto\Documents\Projects\Dia02\Dia02\obj\Debug\uploadflags.txt

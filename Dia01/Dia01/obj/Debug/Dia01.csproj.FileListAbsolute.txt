@@ -1,0 +1,15 @@
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\bin\Debug\Dia01.dll
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\bin\Debug\Dia01.pdb
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\bin\Debug\Dia01.dll.mdb
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\bin\Debug\br.com.vitoravale.Dia01.apk
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\bin\Debug\br.com.vitoravale.Dia01-Signed.apk
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\obj\Debug\Dia01.dll
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\obj\Debug\Dia01.pdb
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\obj\Debug\android\bin\br.com.vitoravale.Dia01.apk
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\obj\Debug\res\layout\calculadora.xml
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\obj\Debug\res\layout\main.xml
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\obj\Debug\res\values\strings.xml
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\obj\Debug\res\drawable\icon.png
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\obj\Debug\res\drawable\calculator.png
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\obj\Debug\R.cs.flag
+C:\Users\VitorAugusto\Documents\Projects\Dia01\Dia01\obj\Debug\uploadflags.txt

@@ -1,0 +1,2 @@
+Dia02.MainActivity;dia02.MainActivity
+Dia02.ContactsAdapter;dia02.ContactsAdapter
